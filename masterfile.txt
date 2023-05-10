@@ -1,5 +1,4 @@
 On Master
 Second line
-Third Line Added
 Fourth line
 Fifth line
